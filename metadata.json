@@ -1,0 +1,6 @@
+{
+  "name": "HairCut - Premium Unisex Salon",
+  "description": "Short, luxurious, modern landing page with service pricing, appointment booking, and direct contact for HairCut unisex salon in Ghaziabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
